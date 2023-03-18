@@ -1,0 +1,14 @@
+13
+0 0 0 0 0 0 0 0 0 0 0 0 P
+0 0 0 0 S 0 B 0 T 0 0 0 0
+0 0 T T 0 S 0 B B 0 0 0 0
+S 0 T 0 T S B 0 0 S 0 S S
+0 0 0 0 0 0 W W 0 0 0 0 0
+T S 0 0 0 0 0 S S W W 0 S
+0 0 0 T S 0 0 0 T 0 0 W W
+0 T 0 0 W T B 0 T S 0 0 0
+0 0 0 0 0 T 0 S W W 0 W 0
+B S 0 S 0 B 0 T 0 S 0 T T
+0 0 0 B 0 0 0 B 0 0 W 0 B
+T 0 T 0 0 B B B B 0 0 0 W
+0 0 0 0 0 B T B 0 0 0 0 0
